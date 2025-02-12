@@ -1,0 +1,45 @@
+## Arena 1
+
+496 x 176 px
+62 x 22 tls
+
+## Arena 2
+
+368 x 176 px
+46 x 22 tls
+
+4 frames per image. GIF exported with 70ms per frame.
+
+## Arena 3
+
+496 x 176 px
+62 x 22 tls
+
+8 frames per image. GIF exported as 130 ms per frame.
+
+## Arena 4
+
+368 x 176 px
+46 x 22 tls
+
+GIF exported with 1000ms per frame.
+
+## Arena 5
+
+## Arena 6
+
+480 x 176 px
+60 x 22 tls
+
+4 frames per image. GIF exported with 70ms per frame.
+
+## Girl
+
+12 frames per image. GIf exported as 200ms per frame.
+
+## Locker room
+
+Up 4 * 4 frames
+Down 2 * 4 frames
+
+130ms

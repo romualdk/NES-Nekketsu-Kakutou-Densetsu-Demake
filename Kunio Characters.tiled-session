@@ -1,0 +1,44 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Kunio Characters.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Kakoutou Densetsu.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 4
+        },
+        "Kunio Characters.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 136.5,
+                "y": 53
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/romua/OneDrive/Dokumenty/Projects/Kunio Characters",
+    "map.height": 32,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 32,
+    "openFiles": [
+        "Kunio Characters.tmx",
+        "Kakoutou Densetsu.tsx"
+    ],
+    "project": "Kunio Characters.tiled-project",
+    "recentFiles": [
+        "Kakoutou Densetsu.tsx",
+        "Kunio Characters.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}
