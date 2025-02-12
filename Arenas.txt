@@ -43,3 +43,10 @@ Up 4 * 4 frames
 Down 2 * 4 frames
 
 130ms
+
+
+
+Arena 7
+4 x 4 frames
+
+16 frames per image. 60 / 16 = 3,75 = 267ms per frame
